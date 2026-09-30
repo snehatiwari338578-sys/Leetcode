@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0051-n-queens) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
