@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
