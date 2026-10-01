@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0051-n-queens) |
+| [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0704-binary-search) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
