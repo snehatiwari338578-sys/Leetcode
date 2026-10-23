@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0463-island-perimeter](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0704-binary-search) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -115,8 +116,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0463-island-perimeter](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
