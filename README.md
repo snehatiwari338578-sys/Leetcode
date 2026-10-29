@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
