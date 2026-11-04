@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0263-ugly-number) |
 ## Quicksort
 |  |
 | ------- |
