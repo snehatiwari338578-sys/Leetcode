@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0263-ugly-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
 | ------- |
