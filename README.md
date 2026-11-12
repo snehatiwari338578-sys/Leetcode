@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0500-keyboard-row) |
+| [0904-fruit-into-baskets](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
