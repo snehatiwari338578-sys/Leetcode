@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0500-keyboard-row) |
 | [0904-fruit-into-baskets](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0229-majority-element-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/snehatiwari338578-sys/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
